@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Meeting Assistant",
+  "description": "A professional tool to transcribe, summarize, and extract action items from meeting recordings using Gemini 3.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
